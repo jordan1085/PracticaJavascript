@@ -8,7 +8,7 @@ console.log(`${producto} ${texto} !!!`);
  
 
 
-// Split
+// Split separa
 const actividad = 'Estoy aprendiendo Javascript Moderno';
 console.log(actividad.split(" "));
 
